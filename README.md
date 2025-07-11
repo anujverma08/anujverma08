@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -37,7 +32,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
-**Databases / Messaging**  
+**Databases **  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
@@ -53,7 +48,6 @@
 | 📝 **WordPad-like Text Editor (Python + MySQL)** | Tkinter-based GUI text editor with Open, Edit, Save, Format features and persistent file history using MySQL |
 | 🛠️ **Tutor Booking System** | Real-time Laravel platform for scheduling tutors with availability tracking, session history, and student feedback |
 
-...
 
 ### 🌐 Connect With Me
 
