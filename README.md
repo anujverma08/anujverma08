@@ -54,38 +54,10 @@
 | 🛠️ **Tutor Booking System** | Real-time Laravel platform for scheduling tutors with availability tracking, session history, and student feedback |
 
 ...
-### 🚀 Projects
-| ... your table here ... |
-
----
-
-### 📝 Recent Commits
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anujverma08&theme=dracula&area=true&points=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anujverma08&theme=dracula&hide_border=true&direction=forward&width=48%" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anujverma08&theme=dracula&hide_border=true&direction=clockwise&width=48%" />
-</p>
-
-...
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anujverma08&theme=dracula&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anujverma08/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:anujirverma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/anujverma08">
