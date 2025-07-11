@@ -32,7 +32,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
-**Databases **  
+**Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
