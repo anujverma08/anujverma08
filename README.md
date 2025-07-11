@@ -45,9 +45,6 @@
 | 🌿 **Carbon Track** | Carbon emissions tracker for Indian coal mines using Flask & Plotly |
 | 🧭 **Travel Admin Dashboard (In Progress)** | Full-stack React dashboard with charts, dynamic tables, filters, and real data APIs for travel management |
 | 🔐 **Custom Auth System (MERN)** | Secure authentication system with 2FA, email verification, JWT sessions, and secure cookies — built with Node.js, React, MongoDB |
-| 📝 **WordPad-like Text Editor (Python + MySQL)** | Tkinter-based GUI text editor with Open, Edit, Save, Format features and persistent file history using MySQL |
-| 🛠️ **Tutor Booking System** | Real-time Laravel platform for scheduling tutors with availability tracking, session history, and student feedback |
-
 
 ### 🌐 Connect With Me
 
@@ -58,8 +55,4 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-> 🧠 “Code is craft. Projects are stories. Let’s build something meaningful.”
 
